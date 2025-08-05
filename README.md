@@ -72,10 +72,8 @@ The project involved detailed assessment of clock synchronization, reference sta
 
 ## Repository Contents
 
-- `/plots/` — Figures showing delay rates, Doppler shifts, pulse trains, and fringes.
-- `/scripts/` — Python scripts for delay estimation and cross-correlation.
-- `/report/` — [Full Technical Report (PDF)](./VSRP_REPORT.pdf)
-- `/data/` — Placeholder for processed visibility data and example baseband segments (*optional*).
+- 'maser-ocxo experiment files' : contains code for the correlation of maser and ocxo data and the corresponding plots for it.
+- 'elevation of the source' : contains code to plot the elevation for a source
 
 ---
 
